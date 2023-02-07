@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Kumtel Four Electrique 36 Litre G-lineshop",
+      "price": 499.00,
+      "category": "Home, kitchen & office",
+      "photo": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/20/900643/1.jpg?5777"
+    },
+    {
+      "id": 2,
+      "title": "Itel Smart TV 32” Android 11 OFFICIEL Bluetooth 5 Built-in HDR Receiver",
+      "price": 1483.00,
+      "category": "TV & Hi Tech",
+      "photo": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/12/341116/1.jpg?1383"
+    },
+    {
+      "id": 3,
+      "title": "Sony PlayStation 5 Standard Edition, PS5 with 1 DualSense Wireless Controller",
+      "price": 8799.00,
+      "category": "Video Games & Consoles",
+      "photo": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/41/914006/1.jpg?5685"
+    },
+    {
+      "id": 4,
+      "title": "Samsung Galaxy A04e Black 3+32GB 6.5” HD+ PLS LCD 5,000 mAh",
+      "price": 1199.00,
+      "category": "Phone & Tablete",
+      "photo": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/79/759795/1.jpg?1563"
+    }
+  ]
+}
